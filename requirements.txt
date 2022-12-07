@@ -1,0 +1,6 @@
+python-telegram-bot
+pycoingecko
+uniswap-python
+web3
+python-dotenv
+requests
